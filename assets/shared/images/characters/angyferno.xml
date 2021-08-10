@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ferno.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ferno_Down0000" x="0" y="0" width="459" height="789" frameX="-2" frameY="-45" frameWidth="461" frameHeight="865"/>
+	<SubTexture name="Ferno_Down0001" x="459" y="0" width="459" height="829" frameX="-2" frameY="-5" frameWidth="461" frameHeight="865"/>
+	<SubTexture name="Ferno_Down0002" x="918" y="0" width="459" height="865" frameX="0" frameY="30" frameWidth="461" frameHeight="865"/>
+	<SubTexture name="Ferno_Down0003" x="1377" y="0" width="459" height="843" frameX="0" frameY="8" frameWidth="461" frameHeight="865"/>
+	<SubTexture name="Ferno_Down0004" x="1377" y="0" width="459" height="843" frameX="0" frameY="8" frameWidth="461" frameHeight="865"/>
+	<SubTexture name="Ferno_idle0000" x="1836" y="0" width="374" height="797" frameX="-73" frameY="-63" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0001" x="1836" y="0" width="374" height="797" frameX="-73" frameY="-63" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0002" x="2210" y="0" width="486" height="805" frameX="-36" frameY="-56" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0003" x="2210" y="0" width="486" height="805" frameX="-36" frameY="-56" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0004" x="2696" y="0" width="455" height="868" frameX="-73" frameY="13" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0005" x="2696" y="0" width="455" height="868" frameX="-73" frameY="13" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0006" x="3151" y="0" width="471" height="866" frameX="-73" frameY="15" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0007" x="3151" y="0" width="471" height="866" frameX="-73" frameY="15" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0008" x="3622" y="0" width="471" height="865" frameX="-73" frameY="16" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0009" x="0" y="868" width="478" height="891" frameX="-66" frameY="30" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0010" x="0" y="868" width="478" height="891" frameX="-66" frameY="30" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0011" x="0" y="868" width="478" height="891" frameX="-66" frameY="30" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0012" x="0" y="868" width="478" height="891" frameX="-66" frameY="30" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0013" x="0" y="868" width="478" height="891" frameX="-66" frameY="30" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_idle0014" x="478" y="868" width="723" height="884" frameX="0" frameY="24" frameWidth="723" frameHeight="891"/>
+	<SubTexture name="Ferno_left0000" x="1201" y="868" width="507" height="819" frameX="-37" frameY="30" frameWidth="604" frameHeight="819"/>
+	<SubTexture name="Ferno_left0001" x="1201" y="868" width="507" height="819" frameX="-37" frameY="30" frameWidth="604" frameHeight="819"/>
+	<SubTexture name="Ferno_left0002" x="1708" y="868" width="604" height="780" frameX="0" frameY="9" frameWidth="604" frameHeight="819"/>
+	<SubTexture name="Ferno_left0003" x="1708" y="868" width="604" height="780" frameX="0" frameY="9" frameWidth="604" frameHeight="819"/>
+	<SubTexture name="Ferno_left0004" x="1708" y="868" width="604" height="780" frameX="0" frameY="9" frameWidth="604" frameHeight="819"/>
+	<SubTexture name="Ferno_right0000" x="2312" y="868" width="583" height="937" frameX="-104" frameY="30" frameWidth="687" frameHeight="937"/>
+	<SubTexture name="Ferno_right0001" x="2312" y="868" width="583" height="937" frameX="-104" frameY="30" frameWidth="687" frameHeight="937"/>
+	<SubTexture name="Ferno_right0002" x="2895" y="868" width="618" height="864" frameX="0" frameY="-43" frameWidth="687" frameHeight="937"/>
+	<SubTexture name="Ferno_right0003" x="2895" y="868" width="618" height="864" frameX="0" frameY="-43" frameWidth="687" frameHeight="937"/>
+	<SubTexture name="Ferno_right0004" x="2895" y="868" width="618" height="864" frameX="0" frameY="-43" frameWidth="687" frameHeight="937"/>
+	<SubTexture name="Ferno_up0000" x="3513" y="868" width="574" height="1039"/>
+	<SubTexture name="Ferno_up0001" x="3513" y="868" width="574" height="1039"/>
+	<SubTexture name="Ferno_up0002" x="0" y="1907" width="553" height="961" frameX="-21" frameY="-48" frameWidth="574" frameHeight="1039"/>
+	<SubTexture name="Ferno_up0003" x="0" y="1907" width="553" height="961" frameX="-21" frameY="-48" frameWidth="574" frameHeight="1039"/>
+	<SubTexture name="Ferno_up0004" x="0" y="1907" width="553" height="961" frameX="-21" frameY="-48" frameWidth="574" frameHeight="1039"/>
+</TextureAtlas>

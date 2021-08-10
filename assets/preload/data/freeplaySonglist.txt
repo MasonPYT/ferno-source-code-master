@@ -1,0 +1,4 @@
+Ember:ferno:0
+Fury:ferno:0
+Ignite:angyferno:0
+Ugh:ferno:0
